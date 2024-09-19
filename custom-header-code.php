@@ -3,7 +3,7 @@
  * Plugin Name: Custom Header Code Editor
  * Description: A simple plugin to add custom code to the header.
  * Version: 1.0
- * Author: kkawataki
+ * Author: kkawataki.com
  */
 
 // Prevent direct access to the file
